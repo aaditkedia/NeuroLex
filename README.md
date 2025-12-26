@@ -1,4 +1,4 @@
-# Dyslexia & Low-Vision Reader Aid
+# NeuroLex - Dyslexia & Low-Vision Reader Aid
 
 A Java Swing application designed to help individuals with dyslexia and low vision read text more easily. The app features **Bionic Reading** technology that bolds the first half of each word to guide the eye and improve reading speed and comprehension.
 
@@ -53,12 +53,12 @@ javac *.java
 
 3. Run the application:
 ```bash
-java DyslexiaReaderApp
+java NeuroLex
 ```
 
 ## Usage
 
-1. **Launch the application** - Run `DyslexiaReaderApp.java`
+1. **Launch the application** - Run `NeuroLex.java`
 
 2. **Enter your text** - Type or paste text into the left input pane
 
@@ -96,12 +96,12 @@ Bionic Reading is a reading technique that guides the eye by highlighting the in
 
 ```
 DyslexiaLow-Vision_Reader/
-├── DyslexiaReaderApp.java    # Main entry point
-├── ReaderGUI.java            # GUI implementation and layout
-├── TextProcessor.java        # Bionic Reading processing logic
-├── README.md                 # This file
-├── LICENSE                   # MIT License
-└── .gitignore               # Git ignore file
+├── NeuroLex.java            # Main entry point
+├── ReaderGUI.java           # GUI implementation and layout
+├── TextProcessor.java       # Bionic Reading processing logic
+├── README.md                # This file
+├── LICENSE                  # MIT License
+└── .gitignore              # Git ignore file
 ```
 
 ## Contributing
