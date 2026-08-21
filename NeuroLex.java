@@ -2,7 +2,7 @@ import javax.swing.SwingUtilities;
 import javax.swing.UIManager;
 import javax.swing.UnsupportedLookAndFeelException;
 
-public class DyslexiaReaderApp {
+public class NeuroLex {
     public static void main(String[] args) {
         System.out.println("[App] Launching Dyslexia Reader Tool...");
 
